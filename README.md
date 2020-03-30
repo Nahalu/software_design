@@ -44,3 +44,25 @@ Cette spécification définit les fonctionnalitées relatives au fonctionnement 
 - Résistance aux montées en charges
 - Sécurité des données personelles
 - Faisabilité
+
+# Conception architectural
+
+## Client:
+
+## Plateforme :
+
+- Application web
+- Application Mobile
+
+## Serveur
+
+- Multi instantiation
+- Gestion des specificitées du droit régional
+- Répartition des flux de connections
+
+## BDD
+
+- Stockage des utilisateurs
+- Stockage des articles
+- Stockage des commentaires
+- Sauvegarde
