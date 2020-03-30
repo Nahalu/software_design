@@ -66,3 +66,5 @@ Cette spécification définit les fonctionnalitées relatives au fonctionnement 
 - Stockage des articles
 - Stockage des commentaires
 - Sauvegarde
+
+# Conception détaillé
