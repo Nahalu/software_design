@@ -4,7 +4,7 @@
 
 ## Medium
 
-Cette spécification définit les fonctionnalitées relatives au fonctionnement d'un site web d'articles.
+Cette spécification définit les fonctionnalitées relatives au fonctionnement d'un site web de lecture/rédaction d'articles.
 
 ### Présentation général
 
