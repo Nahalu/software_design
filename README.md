@@ -35,6 +35,12 @@ Cette spécification définit les fonctionnalitées relatives au fonctionnement 
 | Production |   Article    |
 | Ressource  | Commentaire  |
 | Processus  | Notification |
-| Processus  | Abonnements  |
+| Processus  |  Abonnement  |
 
 # Critères de qualité
+
+- Accessibilité/Ergonomie du site
+- Maintenabilité
+- Résistance aux montées en charges
+- Sécurité des données personelles
+- Faisabilité
